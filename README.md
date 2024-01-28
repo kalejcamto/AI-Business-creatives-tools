@@ -12,6 +12,7 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [HASHTAG GENERATOR](https://all-hashtag.com/hashtag-generator.php) : For all social media platforms.
 - [KAIBER](https://kaiber.ai/): Video Generator
 - [SUNO AI](https://www.suno.ai/) : Create music from zero, with or without lyrics to use for free for marketing purposes.
-- [ZAPIER](https://zapier.com/ai/chatbot) : Your own smart chat as your business expert for customer service or first contact on your page or your whatsapp, 14 days trial for free. 
+- [ZAPIER](https://zapier.com/ai/chatbot) : Your own smart chat as your business expert for customer service or first contact on your page or your whatsapp, 14 days trial.
 - [Midjourney](https://www.midjourneyai.ai/): Image generator
 - [ChatGPT BOT GENERATOR](https://sendbird.com/products/chatgpt-integration?utm_medium=paid-search&utm_source=google&utm_content=top-converters&utm_campaign=2023-q3-paid-search-google-top-converters&_bt=676750257574&_bk=ai%20chatbot%20builder&_bm=e&_bn=g&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_6ymT7rjqyrislOuP-u2FMKnZksuRGfowZaYq68ENxsz7QP5Za2HPBxoCg1gQAvD_BwE) : Your own custom trained bot CHATgpt for your use, personal assistant, employee, pro advisor.
+- [PREDIS AI](https://predis.ai/) : CHATGPT+CANVA+HOOTSUIT markteting content creator trained for your business for months in advanced.
