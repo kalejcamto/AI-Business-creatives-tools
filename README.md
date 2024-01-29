@@ -25,5 +25,6 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [KAIBER](https://kaiber.ai/): Video Generator
 - [SUNO AI](https://www.suno.ai/) : Create music from zero, with or without lyrics to use for free for marketing purposes.
 - [Midjourney](https://www.midjourneyai.ai/): Image generator
-- - [MOTION ARRAY](https://motionarray.com/?utm_source=google&utm_medium=cpc&utm_campaign=13705712800&utm_content=131044932944&utm_term=motion%20array&keyword=motion%20array&ad=530649732683&matchtype=e&device=c&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_623Z-pF8s27Qto8sRONtPNo7gxLcv3Ehz4O7_51Y_fFc7pBqrkZxjhoCRHIQAvD_BwE) : Video editor with modern features 
+- - [MOTION ARRAY](https://motionarray.com/?utm_source=google&utm_medium=cpc&utm_campaign=13705712800&utm_content=131044932944&utm_term=motion%20array&keyword=motion%20array&ad=530649732683&matchtype=e&device=c&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_623Z-pF8s27Qto8sRONtPNo7gxLcv3Ehz4O7_51Y_fFc7pBqrkZxjhoCRHIQAvD_BwE) : Video editor with modern features
+- [SYNTHESYS AI](https://synthesys.io/?gclid=CjwKCAiAk9itBhASEiwA1my_682oLVgFNjtkpCqC7_8BAsVLVe-M1rMyGhJdzdvmTNs5rw0_VpaG8hoCL50QAvD_BwE) : Video voice and image clone generator. 
 
