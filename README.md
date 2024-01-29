@@ -18,13 +18,13 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [ZAPIER](https://zapier.com/ai/chatbot) : Your own smart chat as your business expert for customer service or first contact on your page or your whatsapp, 14 days trial.
 
 
-### CREATIVES
+### CREATIVES FOR MARKETING
 - [PREDIS AI](https://predis.ai/) : CHATGPT+CANVA+HOOTSUIT markteting content creator trained for your business for months in advanced.
 - [SOCIAL PILOT](https://www.socialpilot.co/) : social media marketing scheduled and deployed on several platforms at once. Acount management. Answer all Social Media inboxes from one inbox.
 - [HASHTAG GENERATOR](https://all-hashtag.com/hashtag-generator.php) : For all social media platforms.
 - [KAIBER](https://kaiber.ai/): Video Generator
 - [SUNO AI](https://www.suno.ai/) : Create music from zero, with or without lyrics to use for free for marketing purposes.
 - [Midjourney](https://www.midjourneyai.ai/): Image generator
-- - [MOTION ARRAY](https://motionarray.com/?utm_source=google&utm_medium=cpc&utm_campaign=13705712800&utm_content=131044932944&utm_term=motion%20array&keyword=motion%20array&ad=530649732683&matchtype=e&device=c&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_623Z-pF8s27Qto8sRONtPNo7gxLcv3Ehz4O7_51Y_fFc7pBqrkZxjhoCRHIQAvD_BwE) : Video editor with modern features
+- [MOTION ARRAY](https://motionarray.com/?utm_source=google&utm_medium=cpc&utm_campaign=13705712800&utm_content=131044932944&utm_term=motion%20array&keyword=motion%20array&ad=530649732683&matchtype=e&device=c&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_623Z-pF8s27Qto8sRONtPNo7gxLcv3Ehz4O7_51Y_fFc7pBqrkZxjhoCRHIQAvD_BwE) : Video editor with modern features
 - [SYNTHESYS AI](https://synthesys.io/?gclid=CjwKCAiAk9itBhASEiwA1my_682oLVgFNjtkpCqC7_8BAsVLVe-M1rMyGhJdzdvmTNs5rw0_VpaG8hoCL50QAvD_BwE) : Video voice and image clone generator. 
 
