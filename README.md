@@ -4,7 +4,7 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 ## Start-ups
 ### BRANDING
 - [LOGOFAST](https://shipfa.st/tools/logo-fast) : Instant customized logos
-- [GAMMA APP](https://gamma.app/?lng=en) : Custom Website creation in seconds/minutes
+
 
   
 ### WORKFLOW
@@ -12,6 +12,9 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [HONEYBOOK](https://www.honeybook.com/getstarted?utm_source=google&utm_campaign=856275320&utm_medium=cpc&utm_content=e&utm_term=honeybook&placement=47188924001&device=c&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_6-QDmnmfWXDo6WqubT_uUXW6t4TUICZWYJdeTl-8RJEv9OYiKXkZzBoCh4YQAvD_BwE) : Workflow book, charge, invoice.
 - [ChatGPT BOT GENERATOR](https://sendbird.com/products/chatgpt-integration?utm_medium=paid-search&utm_source=google&utm_content=top-converters&utm_campaign=2023-q3-paid-search-google-top-converters&_bt=676750257574&_bk=ai%20chatbot%20builder&_bm=e&_bn=g&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_6ymT7rjqyrislOuP-u2FMKnZksuRGfowZaYq68ENxsz7QP5Za2HPBxoCg1gQAvD_BwE) : Your own custom trained bot CHATgpt for your use, personal assistant, employee, pro advisor.
 
+### ACCOUNTING 
+- [DEXT](https://www.dext.com) : accounting tool kit with efficient and accurate process.
+- [SMACC.IO](https://www.smacc.io) : Data Extraction,Rule-based accounting, acc assignment with AI, workflows,payment run, supplier mananagement, doc management, substitution,user management.$200 monthly
 
 ### CUSTOMER SERVICE - SALES 
 - [MAIL MODO/](https://www.mailmodo.com/): Replacing mailchimp with AI faster smarter system.
@@ -27,4 +30,14 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [Midjourney](https://www.midjourneyai.ai/): Image generator
 - [MOTION ARRAY](https://motionarray.com/?utm_source=google&utm_medium=cpc&utm_campaign=13705712800&utm_content=131044932944&utm_term=motion%20array&keyword=motion%20array&ad=530649732683&matchtype=e&device=c&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_623Z-pF8s27Qto8sRONtPNo7gxLcv3Ehz4O7_51Y_fFc7pBqrkZxjhoCRHIQAvD_BwE) : Video editor with modern features
 - [SYNTHESYS AI](https://synthesys.io/?gclid=CjwKCAiAk9itBhASEiwA1my_682oLVgFNjtkpCqC7_8BAsVLVe-M1rMyGhJdzdvmTNs5rw0_VpaG8hoCL50QAvD_BwE) : Video voice and image clone generator. 
+- [FLIKI AI](https://fliki.ai): Text to videos
+
+
+### BEST AI WEBSITE BUILDERS
+- [B12 AI](https://b12.io): they say you can build your site in 60 seconds
+- [GAMMA APP](https://gamma.app/?lng=en) : Custom Website creation in seconds/minutes
+- [DIVI AI](https://elegantthemes.com.ai) : Elegant WordPress themes.
+- [ZAPIER](https://zapier.com): Customized Chat box to integrate with your web apps 14 day free trial. 
+
+
 
