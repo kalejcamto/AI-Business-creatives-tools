@@ -39,5 +39,7 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [DIVI AI](https://elegantthemes.com.ai) : Elegant WordPress themes.
 - [ZAPIER](https://zapier.com): Customized Chat box to integrate with your web apps 14 day free trial. 
 
-
+### PRODUCTIVITY 
+- [BEAUTIFUL AI](https://www.beautiful.ai/) : Make Slides for Presentations with accurate graphs AI generated
+- [NOVEL AI](https://www.beautiful.ai/) : Helps you on the creative process when writing
 
