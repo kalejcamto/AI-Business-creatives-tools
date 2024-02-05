@@ -43,3 +43,6 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [BEAUTIFUL AI](https://www.beautiful.ai/) : Make Slides for Presentations with accurate graphs AI generated
 - [NOVEL AI](https://www.beautiful.ai/) : Helps you on the creative process when writing
 
+### PHOTOGRAPHER PHOTO EDITION AI TOOLs
+- [IMAGE AI](https://www.image-ai.com)
+
