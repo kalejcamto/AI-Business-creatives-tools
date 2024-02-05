@@ -46,4 +46,5 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 ### PHOTOGRAPHER PHOTO EDITION AI TOOLs
 - [IMAGE AI](https://www.image-ai.com) : AI faster batch edits pay as you go plans  from 0.05 per photo cloud storage up to 100 GB 3 mo.
 
-
+### VIDEO CREATION
+- [FLIKI AI](https//:www.fliki.ai) : videos from scratch ai gen
