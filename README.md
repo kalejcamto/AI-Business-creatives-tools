@@ -48,3 +48,4 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 
 ### VIDEO CREATION
 - [FLIKI AI](https//:www.fliki.ai) : videos from scratch ai gen
+- [HOURONE.AI](https://www.hourone.ai) : script to video in minutes
