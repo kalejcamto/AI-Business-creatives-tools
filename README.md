@@ -1,5 +1,6 @@
 # AI-Business-creatives-tools 
 AI LINKS solutions for small business and entrepreneur for workflow, ads creatives, marketing, and customer service to make them focus on their core business and save about 60 of their time on low value repetitive tasks. 
+- [DeepFiction ai]( https://www.deepfiction.ai/?via=easywithai) is your gateway to a world of personalized storytelling. Featuring cutting-edge AI technology, this tool creates immersive narratives tailored to your unique preferences and interests. From heart-pounding adventures to thought-provoking mysteries, DeepFiction delivers captivating stories that will keep you hooked.
 
 ## Start-ups
 ### BRANDING
