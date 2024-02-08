@@ -5,7 +5,9 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 ### BRANDING
 - [LOGOFAST](https://shipfa.st/tools/logo-fast) : Instant customized logos
 
-
+### MARKETING MANAGEMENT
+- [GRAPHY.APP](https://graphy.app/)
+- [VENDASTA](https://www.vendasta.com/home) 
   
 ### WORKFLOW
 - [MAKE](https://www.make.com/en?utm_campaign=gg-dg-nam-demandgen-search-brand&utm_source=google&utm_medium=cpc&utm_content=make&utm_term=make&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_6_Q6JH4KHhrUfr2VtRaobJlKHw3g6fSWTPXyglBZMhGvBt7Pju4tshoCeTMQAvD_BwE) : Workflow for businesses. 
