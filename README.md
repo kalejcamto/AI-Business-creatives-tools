@@ -6,11 +6,12 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 ## Start-ups
 ### BRANDING
 - [LOGOFAST](https://shipfa.st/tools/logo-fast) : Instant customized logos
+- [HUBSPOT.ES](https://www.hubspot.es/brand-kit-generator) : Brank kit generator, make step by step all your brand icons and brand color/palete for all your social media and website.
 
 ### MARKETING MANAGEMENT
 - [GRAPHY.APP](https://graphy.app/)
 - [VENDASTA](https://www.vendasta.com/home)
-- 
+  
   
 ### WORKFLOW
 - [MAKE](https://www.make.com/en?utm_campaign=gg-dg-nam-demandgen-search-brand&utm_source=google&utm_medium=cpc&utm_content=make&utm_term=make&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_6_Q6JH4KHhrUfr2VtRaobJlKHw3g6fSWTPXyglBZMhGvBt7Pju4tshoCeTMQAvD_BwE) : Workflow for businesses. 
@@ -73,4 +74,9 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 ### MUSIC CREATION 
 - [SUNO AI)(https://app.suno.ai/): Personalized letter and music for your ads.
 
+### VIDEO CLONE 
+- [HEY GEN](https://app.heygen.com/home): Clone yourself once and make text to videos from now on.
+
+### YOUR CRM VIDEO TO LINK TO ZAPIER
+- [VIDEOASK](https://www.videoask.com/): AI Chat bot with your clone video and cloned voice answering chat bot questions.
 
