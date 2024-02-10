@@ -2,13 +2,15 @@
 AI LINKS solutions for small business and entrepreneur for workflow, ads creatives, marketing, and customer service to make them focus on their core business and save about 60 of their time on low value repetitive tasks. 
 - [DeepFiction ai]( https://www.deepfiction.ai/?via=easywithai) is your gateway to a world of personalized storytelling. Featuring cutting-edge AI technology, this tool creates immersive narratives tailored to your unique preferences and interests. From heart-pounding adventures to thought-provoking mysteries, DeepFiction delivers captivating stories that will keep you hooked.
 
+
 ## Start-ups
 ### BRANDING
 - [LOGOFAST](https://shipfa.st/tools/logo-fast) : Instant customized logos
 
 ### MARKETING MANAGEMENT
 - [GRAPHY.APP](https://graphy.app/)
-- [VENDASTA](https://www.vendasta.com/home) 
+- [VENDASTA](https://www.vendasta.com/home)
+- 
   
 ### WORKFLOW
 - [MAKE](https://www.make.com/en?utm_campaign=gg-dg-nam-demandgen-search-brand&utm_source=google&utm_medium=cpc&utm_content=make&utm_term=make&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_6_Q6JH4KHhrUfr2VtRaobJlKHw3g6fSWTPXyglBZMhGvBt7Pju4tshoCeTMQAvD_BwE) : Workflow for businesses. 
@@ -35,6 +37,11 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [SYNTHESYS AI](https://synthesys.io/?gclid=CjwKCAiAk9itBhASEiwA1my_682oLVgFNjtkpCqC7_8BAsVLVe-M1rMyGhJdzdvmTNs5rw0_VpaG8hoCL50QAvD_BwE) : Video voice and image clone generator. 
 - [FLIKI AI](https://fliki.ai): Text to videos
 
+### IMAGE FOR T-SHIT DESIGN
+- [IDEOGRAM AI](https://ideogram.ai/login) : Recommended example prompt:  Vector T-shirt Design, TExt Clarly written: "If You Cant Be Kind Be Quiet", young black girl with long wavvy hair wearing a yellow sunglasses, 3d render photo.  Then take to canva and edit it.
+- [CANVA]
+- [PROMPTHERO.COM](https://prompthero.com/users/sign_up) : AI Images generated already
+
 
 ### BEST AI WEBSITE BUILDERS
 - [B12 AI](https://b12.io): they say you can build your site in 60 seconds
@@ -52,3 +59,18 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 ### VIDEO CREATION
 - [FLIKI AI](https//:www.fliki.ai) : videos from scratch ai gen
 - [HOURONE.AI](https://www.hourone.ai) : script to video in minutes
+- [PICTORY.AI](https://pictory.ai/) : script to video, articles to video. 
+
+### TRANSCRIPTION 
+- [OTTER.AI](https://otter.ai/) Voice to Text, then enter this text to CHATGPT 4. to train it to your tone and styel how you speak to create new content like the way you talk. Clone your writing tone and style!
+
+### VOICE CLONING
+- [11labs io](https://elevenlabs.io/) : When recording your voice, be enthusiastic and be authentically human so the training can have the most human version of your voice. 
+
+### DAY MANAGEMENT 
+- [REWIND AI](https://www.rewind.ai/) : Recall information from meetings that you had, summarized the standup meetings, it reminds you what you were doing in the computer and your zoom meetings. Speech to Text. Text Analysis. Never miss a topic from your meetings again.
+
+### MUSIC CREATION 
+- [SUNO AI)(https://app.suno.ai/): Personalized letter and music for your ads.
+
+
