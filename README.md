@@ -17,6 +17,7 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [MAKE](https://www.make.com/en?utm_campaign=gg-dg-nam-demandgen-search-brand&utm_source=google&utm_medium=cpc&utm_content=make&utm_term=make&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_6_Q6JH4KHhrUfr2VtRaobJlKHw3g6fSWTPXyglBZMhGvBt7Pju4tshoCeTMQAvD_BwE) : Workflow for businesses. 
 - [HONEYBOOK](https://www.honeybook.com/getstarted?utm_source=google&utm_campaign=856275320&utm_medium=cpc&utm_content=e&utm_term=honeybook&placement=47188924001&device=c&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_6-QDmnmfWXDo6WqubT_uUXW6t4TUICZWYJdeTl-8RJEv9OYiKXkZzBoCh4YQAvD_BwE) : Workflow book, charge, invoice.
 - [ChatGPT BOT GENERATOR](https://sendbird.com/products/chatgpt-integration?utm_medium=paid-search&utm_source=google&utm_content=top-converters&utm_campaign=2023-q3-paid-search-google-top-converters&_bt=676750257574&_bk=ai%20chatbot%20builder&_bm=e&_bn=g&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_6ymT7rjqyrislOuP-u2FMKnZksuRGfowZaYq68ENxsz7QP5Za2HPBxoCg1gQAvD_BwE) : Your own custom trained bot CHATgpt for your use, personal assistant, employee, pro advisor.
+- [OTTER AI](https://www.otter.ai) : speech to text. To record all it is said in your zoom meetings.
 
 ### ACCOUNTING 
 - [DEXT](https://www.dext.com) : accounting tool kit with efficient and accurate process.
