@@ -38,7 +38,7 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 - [MOTION ARRAY](https://motionarray.com/?utm_source=google&utm_medium=cpc&utm_campaign=13705712800&utm_content=131044932944&utm_term=motion%20array&keyword=motion%20array&ad=530649732683&matchtype=e&device=c&gad_source=1&gclid=CjwKCAiAk9itBhASEiwA1my_623Z-pF8s27Qto8sRONtPNo7gxLcv3Ehz4O7_51Y_fFc7pBqrkZxjhoCRHIQAvD_BwE) : Video editor with modern features
 - [SYNTHESYS AI](https://synthesys.io/?gclid=CjwKCAiAk9itBhASEiwA1my_682oLVgFNjtkpCqC7_8BAsVLVe-M1rMyGhJdzdvmTNs5rw0_VpaG8hoCL50QAvD_BwE) : Video voice and image clone generator. 
 - [FLIKI AI](https://fliki.ai): Text to videos
-
+- [CONTENTS](https://www.contents.com) : All type of content, text to suduo, text to video, chatbox. 
 ### IMAGE FOR T-SHIT DESIGN
 - [IDEOGRAM AI](https://ideogram.ai/login) : Recommended example prompt:  Vector T-shirt Design, TExt Clarly written: "If You Cant Be Kind Be Quiet", young black girl with long wavvy hair wearing a yellow sunglasses, 3d render photo.  Then take to canva and edit it.
 - [CANVA]
