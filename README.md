@@ -7,6 +7,8 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 ### BRANDING
 - [LOGOFAST](https://shipfa.st/tools/logo-fast) : Instant customized logos
 - [HUBSPOT.ES](https://www.hubspot.es/brand-kit-generator) : Brank kit generator, make step by step all your brand icons and brand color/palete for all your social media and website.
+- [ALL IN ONE CREATOR STORE](https://www.stan.store/): Stan is the easiest way to make money online. All of your courses, digital products, and bookings are now hosted in your link·in·bio.
+
 
 ### MARKETING MANAGEMENT
 - [GRAPHY.APP](https://graphy.app/)
@@ -26,6 +28,7 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 ### CUSTOMER SERVICE - SALES 
 - [MAIL MODO/](https://www.mailmodo.com/): Replacing mailchimp with AI faster smarter system.
 - [ZAPIER](https://zapier.com/ai/chatbot) : Your own smart chat as your business expert for customer service or first contact on your page or your whatsapp, 14 days trial.
+- [MANYCHAT](https://manychat.com/): Automate all first responses, collect information, send clients to your site. Even send voice recording on the automated messages.
 
 
 ### CREATIVES FOR MARKETING
@@ -61,7 +64,7 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 ### VIDEO CREATION
 - [FLIKI AI](https//:www.fliki.ai) : videos from scratch ai gen
 - [HOURONE.AI](https://www.hourone.ai) : script to video in minutes
-- [PICTORY.AI](https://pictory.ai/) : script to video, articles to video. 
+- [PICTORY.AI](https://pictory.ai/) : script to video, articles to video.
 
 ### TRANSCRIPTION 
 - [OTTER.AI](https://otter.ai/) Voice to Text, then enter this text to CHATGPT 4. to train it to your tone and styel how you speak to create new content like the way you talk. Clone your writing tone and style!
@@ -80,4 +83,5 @@ AI LINKS solutions for small business and entrepreneur for workflow, ads creativ
 
 ### YOUR CRM VIDEO TO LINK TO ZAPIER
 - [VIDEOASK](https://www.videoask.com/): AI Chat bot with your clone video and cloned voice answering chat bot questions.
+- [SYSTEME.IO](https://systeme.io/): Newsletters, automated emails, workflow, manage suscriptions, payments, email campaings. 
 
